@@ -6,7 +6,7 @@ I <3 pull requests :)
 
 You can also contribute with a beer IRL or with `buymeacoffee.com`
 
-[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/swissky)
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/muhammd)
 
 Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
 
@@ -17,24 +17,24 @@ Every section contains the following files, you can use the `_template_vuln` fol
 
 You might also like :
 
-- [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
-  - [Active Directory Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
-  - [Linux - Persistence.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Persistence.md)
-  - [Linux - Privilege Escalation.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
-  - [Metasploit - Cheatsheet.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Metasploit%20-%20Cheatsheet.md)  
-  - [Methodology_and_enumeration.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Methodology_and_enumeration.md)
-  - [Network Pivoting Techniques.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md)
-  - [Network Discovery.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Network%20Discovery.md)
-  - [Reverse Shell Cheatsheet.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
-  - [Subdomains Enumeration.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md)
-  - [Windows - Download and Execute.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Download%20and%20Execute.md)
-  - [Windows - Mimikatz.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
-  - [Windows - Persistence.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md)
+- [Methodology and Resources](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/)
+  - [Active Directory Attack.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
+  - [Linux - Persistence.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Linux%20-%20Persistence.md)
+  - [Linux - Privilege Escalation.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
+  - [Metasploit - Cheatsheet.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Metasploit%20-%20Cheatsheet.md)  
+  - [Methodology_and_enumeration.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Methodology_and_enumeration.md)
+  - [Network Pivoting Techniques.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Network%20Pivoting%20Techniques.md)
+  - [Network Discovery.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Network%20Discovery.md)
+  - [Reverse Shell Cheatsheet.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
+  - [Subdomains Enumeration.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Subdomains%20Enumeration.md)
+  - [Windows - Download and Execute.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Windows%20-%20Download%20and%20Execute.md)
+  - [Windows - Mimikatz.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md)
+  - [Windows - Persistence.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Windows%20-%20Persistence.md)
   - [Windows - Post Exploitation Koadic.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Post%20Exploitation%20Koadic.md)
-  - [Windows - Privilege Escalation.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
-  - [Windows - Using credentials.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Using%20credentials.md)
+  - [Windows - Privilege Escalation.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+  - [Windows - Using credentials.md](https://github.com/Muhammd/Awesome-Payloads/blob/master/Methodology%20and%20Resources/Windows%20-%20Using%20credentials.md)
 
-- [CVE Exploits](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/CVE%20Exploits)
+- [CVE Exploits](https://github.com/Muhammd/Awesome-Payloads/blob/master/CVE%20Exploits)
     - Apache Struts 2 CVE-2013-2251 CVE-2017-5638 CVE-2018-11776_.py
     - Apache Struts 2 CVE-2017-5638.py
     - Apache Struts 2 CVE-2017-9805.py
